@@ -13,13 +13,13 @@ Dynamic sensor data over time (e.g., deformation rate, seismic activity, stress 
 
 It predicts the risk level of each stope as one of the following classes:
 
-          0: Stable
+    0: Stable
 
-          1: Elevated Risk
+    1: Elevated Risk
 
-          2: High Risk
+    2: High Risk
 
-          3: Unstable
+    3: Unstable
 
 The aim is to help mining engineers identify unstable stopes early and prevent hazardous incidents.
 
