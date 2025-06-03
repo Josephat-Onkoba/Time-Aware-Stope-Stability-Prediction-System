@@ -1,7 +1,8 @@
 # Stope Stability Prediction System Using Time-Aware Deep Learning
 A hybrid deep learning model for predicting underground mining stope stability using both static geotechnical features and time-series sensor data.
 
-#Overview
+# Overview
+
 This project is a prototype implementation of a machine learning system designed to predict the stability risk level of underground stopes in mining environments.
 
 The system uses:
