@@ -34,4 +34,6 @@ The aim is to help mining engineers identify unstable stopes early and prevent h
     
  Later we will be Building a user interface to display Stope Healthy Status - connected with our model (our main backend).
 
+ We will be using LSTM model and FeedForward neural network.
+
 
