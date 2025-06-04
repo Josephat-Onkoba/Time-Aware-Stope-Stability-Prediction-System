@@ -31,6 +31,7 @@ The aim is to help mining engineers identify unstable stopes early and prevent h
  5. Evaluating Model Performance
  6. Tuning and Optimizing Your Model
  7. Deploying the Model and Making Predictions
-Building user interface to display Stope Healthy Status - connected with our model.
+    
+ Later we will be Building a user interface to display Stope Healthy Status - connected with our model (our main backend).
 
 
