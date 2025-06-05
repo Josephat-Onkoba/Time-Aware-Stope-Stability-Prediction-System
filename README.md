@@ -36,6 +36,5 @@ The aim is to help mining engineers identify unstable stopes early and prevent h
 
  We will be using LSTM model and FeedForward neural network.
 
- <!-- GitAds-Verify: DT1QTCM5623AQX29THEM6O6U9JLJ5KSO -->
 
 
