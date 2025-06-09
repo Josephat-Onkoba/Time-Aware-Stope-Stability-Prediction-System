@@ -36,5 +36,11 @@ The aim is to help mining engineers identify unstable stopes early and prevent h
 
  We will be using LSTM model and FeedForward neural network.
 
+ ### 1. Datasets
+   -- a) Static Stope Features Dataset - These are geological and design characteristics that don't change over time — recorded once per stope during design.
+
+   -- b) Time-Series Dataset Structure - These are daily sensor readings collected over time (thrice a day window per stope). They represent real-time measurements of physical activity.
+
+
 
 
